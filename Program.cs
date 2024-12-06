@@ -57,7 +57,7 @@ class Program
         {
             Fraction fraction = null;
 
-            Console.WriteLine("Оберіть тип дробу:");
+            Console.WriteLine("Оберть тип дробу: ");
             Console.WriteLine("1. Простий дріб");
             Console.WriteLine("2. Тригонометричний підхідний дріб");
             Console.Write("Ваш вибір (1 або 2): ");
